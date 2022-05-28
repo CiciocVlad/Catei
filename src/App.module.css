@@ -1,0 +1,11 @@
+.bigWrapper {
+	display: flex;
+	justify-content: space-around;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	width: 20%;
+}
